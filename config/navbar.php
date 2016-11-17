@@ -13,7 +13,12 @@ return [
 
         // Here comes the menu structure
         "items" => [
-
+            "me" => [
+                "text"  => t("Me"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("Me-page"),
+                "mark-if-parent" => true,
+            ],
             "report" => [
                 "text"  => t("Report"),
                 "url"   => $this->di->get("url")->create("report"),
@@ -25,6 +30,16 @@ return [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
+            ],
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("The grid")
+            ],
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typography")
             ],
         ],
     ],
@@ -43,24 +58,34 @@ return [
         // Here comes the menu structure
         "items" => [
 
+            "me" => [
+                "text"  => t("Me"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("About me")
+            ],
             "report" => [
                 "text"  => t("Report"),
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => t("Reports from kmom assignments"),
                 "mark-if-parent" => true,
             ],
-
             "about" => [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
-
-            "about1" => [
-                "text"  => t("About1"),
-                "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Grid view")
             ],
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typography view")
+            ],
+
+
         ],
     ],
 
