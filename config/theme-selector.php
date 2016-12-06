@@ -76,5 +76,21 @@ return [
             "class"      => "fun",
             "stylesheets" => []
         ],
+
+        "separator2" => "------------------------------------------------",
+        "big-background" => [
+            "title"      => "big-background",
+            "class"      => "big-background",
+            "stylesheets" => [
+                "css/big-background.min.css"
+            ]
+        ],
+        "gradients" => [
+            "title"      => "gradients",
+            "class"      => "gradients",
+            "stylesheets" => [
+                "css/gradients.min.css"
+            ]
+        ],
     ]
 ];

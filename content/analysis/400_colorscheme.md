@@ -1,5 +1,6 @@
 ##Color analysis
 
+
 ### KHK.SE
 
 <table style="border-spacing: 4px; border-collapse: separate">
@@ -15,7 +16,8 @@ Karlskrona hockey har mycket orange i sin webbsida. Förutom den oranga färgen 
 Färgvalet i detta fall går helt i linje med ishockeylagets färgtema. Dvs samma som på deras tröjor och logotyp. Man kan tycka att det är lite för mycket reklam för att kunna betrakta sidan som behaglig. Det finns heller inget tydligt fokus, alltså ingenstans där blicken söker sig utan det är mer kaosartat.
 
 
-## VOLVOCARS.SE
+
+### VOLVOCARS.SE
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <tbody><tr>
@@ -29,7 +31,8 @@ Färgvalet i detta fall går helt i linje med ishockeylagets färgtema. Dvs samm
 Volvo har en nästan svart, en ljusgrå samt en blå färg. Volvo har skapat egna typsnitt, volvo sans som är sans-serif och volvo broad, som använd som rubriker i olika bilder. Jag tycker sidan är snygg och att det finns ett bra fokus på produkten. Man kan tydligt se att det finns ett tänk bakom färgval och hur dom vill profilera sig vilket jag tycker gynnar dom.
 
 
-## VAPIANO.SE
+
+### VAPIANO.SE
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <tbody><tr>
@@ -43,7 +46,8 @@ Volvo har en nästan svart, en ljusgrå samt en blå färg. Volvo har skapat egn
 Vapiano har en väldigt ljus sida med vit bakgrund. Accentfärgen är röd men även flera nyanser av grå förekommer. Även vapiano har ett eget typsnitt vilket speglar den dom har i sin logotyp. Dom kallar den vapiano regular. Förutom det är typsnitten ganska rörigt och det verkar inte finnas ett tydligt tänk då dom använder väldigt många olika typsnitt. Dom har dock sans-serif i rubriker och serif i brödtext. Deras sida är snygg och tydlig och bygger väldigt mycket på deras bilder som är vädigt bra och går i enlighet med restaurangen. Jag skulle säga att designen gynnar dom då man blir sugen på att prova deras produkter.
 
 
-## MCDONALDS.SE
+
+### MCDONALDS.SE
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <tbody><tr>
@@ -56,7 +60,8 @@ Vapiano har en väldigt ljus sida med vit bakgrund. Accentfärgen är röd men �
 McDonalds sida är baserad på bilder som byts ut ofta, vilket ändrar känslan på sidan. Menyn och loggan är det som sätter färgschemat röd och gul som är McDonalds typiska färger. McDonalds använder Mycket Arial men även Helvetica sans serif. Dom har även lagt in text som en del av bilder vilket inte gynnar dom då det försvårar för analyserar text på en sida, t.ex. bildskärmar för synskadade och google. Man kan tycka att ett sånt stort företag borde lagt mer krut på hemsidan som i min mening är ganska medioker och ogenomtänkt. Deras bilder är dock av bra kvalitet enligt mig och säljer produkterna bra.
 
 
-## GRUPP
+
+### GRUPP
 
 Gruppen består av:
 An, Jacob, Christofer, Nicklas, Marcus och Anders.
