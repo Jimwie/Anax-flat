@@ -66,6 +66,16 @@ return [
                 "url"   => $this->di->get("url")->create("theme-selector"),
                 "title" => t("Theme-selector")
             ],
+            "design-principle" => [
+                "text"  => t("Design-Principle"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Design-Principle")
+            ],
+            "design-elements" => [
+                "text"  => t("Design-Elements"),
+                "url"   => $this->di->get("url")->create("design-elements"),
+                "title" => t("Design-Elements")
+            ],
         ],
     ],
 

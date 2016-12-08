@@ -85,11 +85,39 @@ return [
                 "css/big-background.min.css"
             ]
         ],
-        "gradients" => [
-            "title"      => "gradients",
-            "class"      => "gradients",
+        "wide-page" => [
+            "title"      => "wide-page",
+            "class"      => "wide-page",
             "stylesheets" => [
-                "css/gradients.min.css"
+                "css/wide-page.min.css"
+            ]
+        ],
+        "texture" => [
+            "title"      => "texture",
+            "class"      => "texture",
+            "stylesheets" => [
+                "css/texture.min.css"
+            ]
+        ],
+        "harmony" => [
+            "title"      => "harmony",
+            "class"      => "harmony",
+            "stylesheets" => [
+                "css/harmony.min.css"
+            ]
+        ],
+        "movement" => [
+            "title"      => "movement",
+            "class"      => "movement",
+            "stylesheets" => [
+                "css/movement.min.css"
+            ]
+        ],
+        "depth" => [
+            "title"      => "depth",
+            "class"      => "depth",
+            "stylesheets" => [
+                "css/depth.min.css"
             ]
         ],
     ]
